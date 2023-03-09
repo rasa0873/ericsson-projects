@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/46427497/223873430-73ee19ad-756c-4961-a6c1-5e266efb47ee.png)
 
 
-## New MSC-S WCDMA/GSM - Digicel Cayman IslandsNew MSC-S WCDMA/GSM - Digicel Cayman Islands
+## New MSC-S WCDMA/GSM - Digicel Cayman Islands
 Aug 2011 - Sep 2011
 
 Start-up of APG43 and APZ 212 55. Configuration of Axe MSC-S, release R13.2, as VLR and co-located HLR/AUC.
@@ -31,7 +31,7 @@ Operator: LIME.
 <br>
 <br>
 
-## Network Design of GSM/WCDMA network.Network Design of GSM/WCDMA network.
+## Network Design of GSM/WCDMA network.
 Oct 2008 - Nov 2008
 
 CORE Network Design for the expansion of the GSM/WCDMA network.
@@ -42,7 +42,7 @@ Operator: Movilnet
 <br>
 <br>
 
-## GSM/WCDMA network deployment. MovilnetGSM/WCDMA network deployment. Movilnet
+## GSM/WCDMA network deployment. Movilnet
 Mar 2007 - Nov 2007
 
 GSM/WCDMA network deployment.
@@ -54,7 +54,7 @@ Operator: Movilnet.
 <br>
 <br>
 
-## Sw update of Diamux network. Venezuela. EdelcaSw update of Diamux network. Venezuela. Edelca
+## Sw update of Diamux network. Venezuela. Edelca
 Sep 2006 - Mar 2007
 
 Software and hardware upgrade of all the Diamux network.
@@ -66,7 +66,7 @@ Operator: Edelca.
 <br>
 <br>
 
-## Development of a MML client for Diax OM ServerDevelopment of a MML client for Diax OM Server
+## Development of a MML client for Diax OM Server
 Jul 2003 - Aug 2003
 
 Development of an application to interact with the Diax OM server, using the OPI dll files. The MML application was written in C++ programming language.
@@ -78,7 +78,7 @@ Operator: Cantv.
 <br>
 <br>
 
-## ANS configuration. Montevideo. Dedicado.ANS configuration. Montevideo. Dedicado.
+## ANS configuration. Montevideo. Dedicado.
 Aug 2002 - Aug 2002
 
 ANS configuration, integration, aceptance test (ATP), troubleshooting, data transcript.
@@ -90,7 +90,7 @@ Operator: Dedicado.
 <br>
 <br>
 
-## ANS installation, configuration, tests & ATP. ENTELANS installation, configuration, tests & ATP. ENTEL
+## ANS installation, configuration, tests & ATP. ENTEL
 Mar 2002 - Jun 2002
 
 ANS installation, configuration, tests & ATP.
@@ -104,7 +104,7 @@ Operator: Entel.
 <br>
 <br>
 
-## Instalation & configuration ANS Puerto La Cruz - TelcelInstalation & configuration ANS Puerto La Cruz - Telcel
+## Instalation & configuration ANS Puerto La Cruz - Telcel
 Mar 2002 - Apr 2002
 
 Installation, configuration, data transcript, troubleshooting of ANS Translocal 5.20R2.
@@ -128,7 +128,7 @@ Operator: New Global Telecom.
 <br>
 <br>
 
-## Mobitex BRU3 Radio Base Unit nodes’ commissioningMobitex BRU3 Radio Base Unit nodes’ commissioning
+## Mobitex BRU3 Radio Base Unit nodes’ commissioning
 Sep 2001 - Sep 2001
 
 Mobitex BRU3 Radio Base Unit nodes’ commissioning.
@@ -141,7 +141,7 @@ Operator: TWW.
 <br>
 <br>
 
-## Installation & configuration ANS Valencia - TelcelInstallation & configuration ANS Valencia - Telcel
+## Installation & configuration ANS Valencia - Telcel
 Jul 2001 - Aug 2001
 
 Installation, configuration, data transcript, troubleshooting of ANS Translocal 4.20R3.
@@ -153,7 +153,7 @@ Operator: Telcel
 <br>
 <br>
 
-## Installation & configuration of IP Telephony platform demoInstallation & configuration of IP Telephony platform demo
+## Installation & configuration of IP Telephony platform demo
 Mar 2001 - Mar 2001
 
 Installation & configuration of IP Telephony platform demo.
@@ -167,7 +167,7 @@ Operator: Netuno.
 <br>
 <br>
 
-## Installation & configuration ANS Caracas - TelcelInstallation & configuration ANS Caracas - Telcel
+## Installation & configuration ANS Caracas - Telcel
 Nov 2000 - Jan 2001
 
 Installation, configuration, data transcript, troubleshooting of ANS Translocal 4.20R3.
