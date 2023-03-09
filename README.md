@@ -14,18 +14,18 @@ Integration to MGW, RNC, SGSN and monolithic MSC/VLR.
 Test calls (Speech & data).
 Troubleshooting during implementation.
 
-Cayman Islands.
+Cayman Islands. <br>
 Operator: Digicel. 
 
 <br>
 <br>
 
-## New MSS GSM/WCDMA - LIMENew MSS GSM/WCDMA - LIME
+## New MSS GSM/WCDMA - LIME
 Jul 2011 - Jul 2011
 
 B-number analysis verification, test calls and troubleshooting for the implementation of the new WCDMA/GSM MSC-S AXE 212 60 / APG43.
 
-Cayman Islands.
+Cayman Islands. <br>
 Operator: LIME. 
 
 <br>
@@ -36,7 +36,7 @@ Oct 2008 - Nov 2008
 
 CORE Network Design for the expansion of the GSM/WCDMA network.
 
-Montreal - Caracas.
+Montreal - Caracas. <br>
 Operator: Movilnet 
 
 <br>
@@ -48,7 +48,7 @@ Mar 2007 - Nov 2007
 GSM/WCDMA network deployment.
 Acceptance tests of APG40/BSC/MGW.
 
-Venezuela.
+Venezuela. <br>
 Operator: Movilnet. 
 
 <br>
@@ -60,7 +60,7 @@ Sep 2006 - Mar 2007
 Software and hardware upgrade of all the Diamux network.
 Update of the NMAccess server.
 
-Venezuela.
+Venezuela. <br>
 Operator: Edelca. 
 
 <br>
@@ -72,7 +72,7 @@ Jul 2003 - Aug 2003
 Development of an application to interact with the Diax OM server, using the OPI dll files. The MML application was written in C++ programming language.
 Scope of the project: Demo for the Cantv Diamux network.
 
-Caracas, Venezuela.
+Caracas, Venezuela.<br>
 Operator: Cantv. 
 
 <br>
@@ -84,7 +84,7 @@ Aug 2002 - Aug 2002
 ANS configuration, integration, aceptance test (ATP), troubleshooting, data transcript.
 Installation and test of Ericsson's Call Server.
 
-Montevideo, Uruguay
+Montevideo, Uruguay <br>
 Operator: Dedicado. 
 
 <br>
@@ -98,7 +98,7 @@ Interconnection of the ANS to other operators. ISUP and
 MTP3 acceptance tests. Implementation of MFC-R2 and
 ISDN signalling.
 
-Caracas.
+Caracas.<br>
 Operator: Entel. 
 
 <br>
@@ -110,19 +110,19 @@ Mar 2002 - Apr 2002
 Installation, configuration, data transcript, troubleshooting of ANS Translocal 5.20R2.
 Test calls. Acceptance test.
 
-Puerto La Cruz, Venezuela.
+Puerto La Cruz, Venezuela.<br>
 Operator: Telcel 
 
 
 <br>
 <br>
 
-## ANS deployment. NGTANS deployment. NGT
+## ANS deployment. NGT
 Nov 2001 - Dec 2001
 
 ANS installation, integration, data transcript, configuration and test.
 
-Caracas.
+Caracas.<br>
 Operator: New Global Telecom. 
 
 <br>
@@ -135,7 +135,7 @@ Mobitex BRU3 Radio Base Unit nodes’ commissioning.
 Installation and commissioning of 13 base radio stations
 for the wireless data network Mobitex.
 
-Sâo Paulo, Brasil.
+Sâo Paulo, Brasil.<br>
 Operator: TWW. 
 
 <br>
@@ -147,7 +147,7 @@ Jul 2001 - Aug 2001
 Installation, configuration, data transcript, troubleshooting of ANS Translocal 4.20R3.
 Test calls. Acceptance test. O&M.
 
-Valencia, Venezuela.
+Valencia, Venezuela.<br>
 Operator: Telcel
 
 <br>
@@ -161,7 +161,7 @@ Integration of the ANS to the Ericsson's IP Telephony
 Platform 1.6. Implementation and test of PC-PC /PC-Phone/
 Phone-Phone over IP call scenarios
 
-Caracas.
+Caracas.<br>
 Operator: Netuno.
 
 <br>
@@ -173,7 +173,7 @@ Nov 2000 - Jan 2001
 Installation, configuration, data transcript, troubleshooting of ANS Translocal 4.20R3.
 Test calls. Acceptance test. O&M.
 
-Caracas.
+Caracas.<br>
 Operator: Telcel 
 
 <br>
@@ -185,13 +185,13 @@ Jul 2000 - Nov 2000
 Ans installation, configuration for a demo.
 Test calls, MFC-R2 tracing.
 
-Caracas.
+Caracas.<br>
 Operator: Netuno
 
 <br>
 <br>
 
-## DWOS – TDMA Mobile Advantage demo.DWOS – TDMA Mobile Advantage demo.
+## DWOS – TDMA Mobile Advantage demo.
 Nov 1999 - Jul 2000
 
 DWOS – TDMA Mobile Advantage demo.
@@ -199,5 +199,5 @@ Installation and configuration of a DWOS private TDMA
 in-office network. Data transcript and O&M of the DWOS
 solution in El Recreo, Movilnet main offices.
 
-Caracas.
+Caracas.<br>
 Operator: Movilnet.
